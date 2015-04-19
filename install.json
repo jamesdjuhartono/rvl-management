@@ -1,4 +1,4 @@
 {
     "command": "install",
-    "app":["https://raw.githubusercontent.com/jamesdjuhartono/rvl-management/master/com.adobe.reader.apk", "https://raw.githubusercontent.com/jamesdjuhartono/rvl-management/master/arproduction.andrew.worklog.apk"]
+    "app":["https://raw.githubusercontent.com/jamesdjuhartono/rvl-management/master/com.adobe.reader.apk", "https://raw.githubusercontent.com/jamesdjuhartono/rvl-management/master/arproductions.andrew.worklog.apk"]
 }
